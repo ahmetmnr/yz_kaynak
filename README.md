@@ -428,8 +428,3 @@
 
 ---
 
-## 📝 NOT
-
-Bu listedeki **TÜM KAYNAKLAR TAMAMEN ÜCRETSİZDİR** veya ücretsiz kullanım seçeneği sunmaktadır. Coursera gibi platformlarda "Audit" seçeneğini seçerek içeriklere ücretsiz erişebilirsiniz (sertifika hariç).
-
-**Güncelleme:** Ocak 2025
